@@ -10,7 +10,7 @@ export default function Page() {
     <div className="min-h-screen bg-white">
       <Navbar />
       <StepForm />
-      <div className="flex px-24 py-6">
+      <div className=" md:flex  px-24 py-6">
         <CategorySideMenu />
         <TutorProfileSection />
       </div>
