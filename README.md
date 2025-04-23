@@ -16,6 +16,7 @@
 ## 📦 ติดตั้งโปรเจกต์
 
 ```bash
-git clone https://github.com/your-username/todolist-next-ts.git
+git clone https://github.com/Karn12003/todolist-next-ts.git
 cd todolist-next-ts
 npm install
+npm run dev
